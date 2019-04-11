@@ -1,4 +1,7 @@
 # Heap-Allocator
+
+NEU CS5600 Computer System Course Project
+
 Implemented a simple Heap Allocator with Doubly-Linked List structure to store blocks.
 The following APIs are supported:
 
