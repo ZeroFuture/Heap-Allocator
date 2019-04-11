@@ -1,0 +1,6 @@
+/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/CMakeFiles/mm_dlink.dir
+/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/CMakeFiles/mm_simple.dir
+/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/CMakeFiles/mm_kr.dir
+/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/CMakeFiles/mm_malloc.dir

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/src/memlib.h
+
+/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/src/mm_dlink_heap.c
+stdio.h
+-
+stdbool.h
+-
+stddef.h
+-
+string.h
+-
+errno.h
+-
+unistd.h
+-
+memlib.h
+/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/src/memlib.h
+mm_heap.h
+/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/src/mm_heap.h
+
+/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/src/mm_heap.h
+

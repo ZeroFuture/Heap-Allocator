@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Assignment3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mm_dlink">
+				<Option output="/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/mm_dlink" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 mm_dlink"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mm_dlink/fast">
+				<Option output="/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/mm_dlink" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 mm_dlink/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mm_simple">
+				<Option output="/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/mm_simple" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 mm_simple"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mm_simple/fast">
+				<Option output="/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/mm_simple" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 mm_simple/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mm_kr">
+				<Option output="/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/mm_kr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 mm_kr"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mm_kr/fast">
+				<Option output="/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/mm_kr" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 mm_kr/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mm_malloc">
+				<Option output="/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/mm_malloc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 mm_malloc"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="mm_malloc/fast">
+				<Option output="/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/mm_malloc" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 mm_malloc/fast"/>
+					<CompileFile command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j12 -f &quot;/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/src/memlib.c">
+			<Option target="mm_dlink"/>
+			<Option target="mm_simple"/>
+			<Option target="mm_kr"/>
+			<Option target="mm_malloc"/>
+		</Unit>
+		<Unit filename="/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/src/memlib.h">
+			<Option target="mm_dlink"/>
+			<Option target="mm_simple"/>
+			<Option target="mm_kr"/>
+			<Option target="mm_malloc"/>
+		</Unit>
+		<Unit filename="/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/src/mm_dlink_heap.c">
+			<Option target="mm_dlink"/>
+		</Unit>
+		<Unit filename="/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/src/mm_kr_heap.c">
+			<Option target="mm_kr"/>
+		</Unit>
+		<Unit filename="/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/src/mm_malloc_heap.c">
+			<Option target="mm_malloc"/>
+		</Unit>
+		<Unit filename="/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/src/mm_simple_heap.c">
+			<Option target="mm_simple"/>
+		</Unit>
+		<Unit filename="/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/src/test_heap.c">
+			<Option target="mm_dlink"/>
+			<Option target="mm_simple"/>
+			<Option target="mm_kr"/>
+			<Option target="mm_malloc"/>
+		</Unit>
+		<Unit filename="/Users/zeroqu/Desktop/Studyspace/CS5600/assignment-3-zhidongqu/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
